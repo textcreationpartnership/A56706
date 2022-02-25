@@ -1,0 +1,446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable the Lord Mayor and Court of Aldermen at St. Bridget's Church, on Easter-Monday, 1696 by ... Symon, Lord Bishop of Ely.</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56706</idno>
+            <idno type="STC">Wing P854</idno>
+            <idno type="STC">ESTC R22927</idno>
+            <idno type="EEBO-CITATION">12745151</idno>
+            <idno type="OCLC">ocm 12745151</idno>
+            <idno type="VID">93239</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93239)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 727:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable the Lord Mayor and Court of Aldermen at St. Bridget's Church, on Easter-Monday, 1696 by ... Symon, Lord Bishop of Ely.</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Half title: The Bishop of Ely's sermon Easter-Monday, 1696.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Timothy, 2nd, II, 8 --  Sermons.</term>
+               <term>Easter --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:93239:1"/>
+            <opener>
+               <salute>Houblon Mayor,</salute>
+               <hi>Cur' Special' tent' apud Domum Manſion'</hi> Owen Buckingham, <hi>Mil' un' Vic' die Mercur'</hi> xv. <hi>die Aprilis in Hebdomada Paſchae, 1696. Anno<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Regis</hi> Willielmi <hi>tertii,</hi> Angliae, <hi>&amp;c. octavo.</hi>
+            </opener>
+            <p>THis Court doth deſire the Right Reve<g ref="char:EOLhyphen"/>rend Father in God the Lord Biſhop of <hi>Ely,</hi> to print his Sermon, Preach'd on <hi>Monday</hi> laſt at the Pariſh-Church of St. <hi>Brides,</hi> before the Right Honourable the Lord Mayor, Al<g ref="char:EOLhyphen"/>dermen, and Governours of the ſeveral Hoſpi<g ref="char:EOLhyphen"/>tals of this City.</p>
+            <closer>
+               <signed>GOODFELLOW.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:93239:1"/>
+            <p>A SERMON Preach'd before the RIGHT HONOURABLE THE LORD MAYOR, AND Court of Aldermen, AT St. <hi>BRIDGET</hi>'s CHURCH, On <hi>EASTER-MONDAY,</hi> 1696.</p>
+            <p>By the Right Reverend Father in God <hi>SYMON</hi> Lord Biſhop of <hi>ELY.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church Yard. 1696.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:93239:2"/>
+            <pb facs="tcp:93239:2" rendition="simple:additions"/>
+            <p>THE BISHOP of <hi>ELY</hi>'s SERMON ON <hi>EASTER-MONDAY.</hi> 1696.</p>
+            <pb facs="tcp:93239:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:93239:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93239:4"/>
+            <pb n="1" facs="tcp:93239:4"/>
+            <head>A SERMON Preach'd before the LORD MAYOR, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <bibl>2 TIM. II. 8.</bibl>
+               <q>Remember that Jeſus Chriſt of the ſeed of David was raiſed from the dead, according to my Goſpel.</q>
+            </epigraph>
+            <p>THeſe words are a ſolemn Charge of St. <hi>Pauls</hi> to his Son <hi>Timothy:</hi> whom he had earneſt<g ref="char:EOLhyphen"/>ly exhorted, in the foregoing part of this Chapter, to take care of <hi>three</hi> things.</p>
+            <p>
+               <hi>Firſt,</hi> To continue conſtant in the Grace, which he had received from our Lord, <hi>i. e.</hi> in the Doctrin of Chriſtianity, v. 1. <hi>Thou therefore, my Son, be ſtrong in the grace that is in Chriſt Jeſus.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> To deliver this Doctrin to other faith<g ref="char:EOLhyphen"/>ful perſons, who might ſpread and publiſh it there, where he could not preach it himſelf, <hi>v. 2. And the things which thou haſt heard of me among many witneſ<g ref="char:EOLhyphen"/>ſes,
+<pb n="2" facs="tcp:93239:5"/>
+the ſame commit thou to faithful men, who ſhall be able to teach others alſo.</hi> And</p>
+            <p>
+               <hi>Laſtly,</hi> Not to be moved by any troubles or diffi<g ref="char:EOLhyphen"/>culties that might come in his way, to neglect his Duty, or be leſs zealous in it: but in his Chriſtian Warfare <hi>to endure hardſhip, as a good Souldier of Jeſus Chriſt,</hi> v. 3.</p>
+            <p>This he illuſtrates and urges, by <hi>three</hi> moſt apt Reſemblances, in the three following verſes 4, 5, 6. Which ſhew that it was highly reaſonable, he ſhould be no leſs diligent in his buſineſs, than <hi>Souldiers,</hi> and <hi>Wreſtlers,</hi> and <hi>Husbandmen</hi> are in theirs. Who do not expect to <hi>carry away the Spoil,</hi> to <hi>win the Crown</hi> (or other <hi>Prize</hi>) to <hi>reap the fruits of the Earth;</hi> unleſs they <hi>fight,</hi> and <hi>ſtrive</hi> (and that according to the Laws of the Combate) and undergo thoſe <hi>La<g ref="char:EOLhyphen"/>bours,</hi> that belong to their Employment.</p>
+            <p>Theſe things he bids him <hi>conſider</hi> and lay to heart (v. 7.) beſeeching God, <hi>to give him a right underſtand<g ref="char:EOLhyphen"/>ing in all things.</hi>
+            </p>
+            <p>Now that he might never fail to do according to theſe directions, he gives him the Charge, which I have now read, to <hi>remember that Jeſus Chriſt of the Seed of David (i. e.</hi> the true Meſſiah) <hi>was raiſed from the dead,</hi> according to the <hi>Goſpel</hi> which he had heard him preach. This if <hi>Timothy</hi> preached conſtantly to himſelf, as well as others, the Apoſtle knew that he would find it more powerful to animate and encou<g ref="char:EOLhyphen"/>rage him in the Chriſtian Service, and to make him unwearied and undaunted therein than any other conſideration in the world could be.</p>
+            <p>So the Words you ſee do not lead me to prove the Reſurrection of Chriſt from the dead (for which I muſt refer you to the Goſpel which he preached,
+<pb n="3" facs="tcp:93239:5"/>
+where you will find the belief of it grounded upon the moſt undoubted Teſtimonies) but to ſhew you what neceſſity there is to <hi>remember</hi> this, and incul<g ref="char:EOLhyphen"/>cate it upon your ſelves and others; <hi>That Jeſus Chriſt was raiſed from the dead, according to what we read in the Goſpel.</hi>
+            </p>
+            <p>Why ſhould the Apoſtle, may ſome ſay, command this to be remembred above all other things? Was there not as much cauſe to remember the Croſs of Chriſt? to reflect continually upon his Death and Paſ<g ref="char:EOLhyphen"/>ſion, his bitter Agonies and bloody Sweat, his cruel Torments, and all the vile Circumſtances of his Suf<g ref="char:EOLhyphen"/>ferings?</p>
+            <p>Yes, no doubt; there was and is great reaſon to remember both. But yet you may note, that when the Apoſtles were to chuſe a Perſon to ſucceed in the place of the Traitor <hi>Judas,</hi> it was not that he might be <hi>a witneſs</hi> of Chriſts <hi>Paſſion,</hi> but of his <hi>Re<g ref="char:EOLhyphen"/>ſurrection, Act.</hi> 1. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> This was the great Buſineſs of the Apoſtleſhip; and the great Work alſo of the Holy Ghoſt, which preſently came down to joyn his Teſtimony with theirs, as you read <hi>Act. 5. 32. We are witneſſes of theſe things</hi> (ſpeaking of Chriſts Re<g ref="char:EOLhyphen"/>ſurrection) <hi>and ſo is the Holy Ghoſt; which God hath given to them that obey him.</hi> That therefore which they were peculiarly ſent to teſtify, with the con<g ref="char:EOLhyphen"/>junct Teſtimony of the Holy Ghoſt; was above all things to be heartily believed, and faithfully remem<g ref="char:EOLhyphen"/>bred, and ſolemnly commemorated; as it is at this Feſtival, upon more days than one: which our An<g ref="char:EOLhyphen"/>ceſtors, with great reaſon, have appointed for this purpoſe.</p>
+            <p>For this (to give a general reaſon of it) was the only thing, whereof there was any doubt; there
+<pb n="4" facs="tcp:93239:6"/>
+being no queſtion at all, that our Saviour ſuffered, and was expoſed to publick ſhame. All his Enemies ſaw him hang upon his Croſs; and were as ready as any other perſons in the World, to proclaim and publiſh every where, that he was accuſed, condem<g ref="char:EOLhyphen"/>ned, and puniſhed as a notorious Malefactor. Nay, they rejoyced in hope, that they were rid of one, who if he had ſtill lived, was like to draw all men after him. They not only confeſſed, but gloried, that he was buried, and ſhut up in his Grave: where they thought to keep him ſo faſt, that he ſhould ne<g ref="char:EOLhyphen"/>ver ſtir, to trouble them any more. But that he ſuffered unjuſtly, and was wrongfully ſentenced and put to death; this they denyed, and reſolutely gain<g ref="char:EOLhyphen"/>ſaid: And therefore would by no means grant that he was riſen out of his Tomb: which they ſaw plainly would be to reverſe the Judgment they had paſſed upon him; and to judg and condemn them<g ref="char:EOLhyphen"/>ſelves as Murderers and Crucifiers of the Lord of Life.</p>
+            <p>This therefore being the great Controverſie, it was abſolutely neceſſary that the Apoſtles ſhould con<g ref="char:EOLhyphen"/>ſtantly aſſert and evidently prove the Reſurrection of Chriſt above all other things; if they meant to gain any Diſciples to the crucified Chriſt. And when they had gained them, this was to be kept in mind, and carefully preſerv'd, if they intended to have them <hi>abide in him,</hi> (as St. <hi>John</hi> ſpeaks) that is, perſiſt in the belief and practice of his Religion. As I ſhall now proceed to ſhew, by laying before you, how much depends upon the <hi>Reſurrection:</hi> even, all the Faith, and Hope, and Comfort of a Chriſtian. For,</p>
+            <p n="1">
+               <pb n="5" facs="tcp:93239:6"/>I. <hi>Firſt,</hi> the Reſurrection of Chriſt from the dead, was the ſtrongeſt Proof of the moſt fundamental Point in our Religion.</p>
+            <p n="2">II <hi>Secondly,</hi> It removed the greateſt Scandal, that lay <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the way, to the belief of that fundamental Po<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t.</p>
+            <p n="3">III. <hi>Thirdly,</hi> It gave all Chriſtians full Satisfaction, th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God was abundantly ſatisfied, with what our Saviour Chriſt had done and ſuffer'd.</p>
+            <p n="4">IV. <hi>Fourthly,</hi> It verified the whole Goſpel, which relies upon this, as the undeniable Evidence of it.</p>
+            <p n="5">V. <hi>Fifthly,</hi> More particularly it proved the Cer<g ref="char:EOLhyphen"/>tainty of future Rewards, in the other World. And therefore,</p>
+            <p n="6">VI. <hi>Sixthly,</hi> Was the moſt powerful Encourage<g ref="char:EOLhyphen"/>ment to patient Continuance in well-doing: With<g ref="char:EOLhyphen"/>out which we cannot hope for thoſe Rewards.</p>
+            <p>This is the Summ of what follows.</p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <hi>Firſt,</hi> The Reſurrection of Chriſt, was the ſtrongeſt Proof of the moſt fundamental Doctrin in our Religion; <hi>viz.</hi> That <hi>Jeſus Chriſt is the Son of God.</hi>
+               </p>
+               <p>Which he demonſtrated indeed in his life-time, by many miraculous Works; which were the Divine Te<g ref="char:EOLhyphen"/>ſtimony to him, that he was, what he ſaid, <hi>the Son of God.</hi> And this, in the higheſt Senſe of thoſe Words; not on<g ref="char:EOLhyphen"/>ly ſent to act in God's Name, and by his Authority, but begotten of him before all Worlds, being of one Subſtance with the Father: as the whole current of the Goſpel teaches us; and as the Jews themſelves ſeemed to underſtand him, when they accus'd him
+<pb n="6" facs="tcp:93239:7"/>
+for ſaying, <hi>God was his Father, making himſelf equal with God,</hi> V. <hi>John</hi> 18. And this was ſaid, upon oc<g ref="char:EOLhyphen"/>caſion of ſuch a miraculous Work, as none but God could effect.</p>
+               <p>But ſome were ſo malicious as to ſay, Such things were done by the Power of the Devil. And others, who were better minded, were ſtill incredulous, and asked for a further Evidence, ſaying, <hi>What ſign ſheweſt thou, ſeeing thou doſt theſe things?</hi> That is, took upon him to drive out thoſe that bought and ſold in the Temple, which he calls his <hi>Father's Houſe.</hi> To which he anſwered in the <hi>Second</hi> of St. <hi>John</hi>'s Goſpel, <hi>v.</hi> 19. <hi>Deſtroy this Temple</hi> (ſpeaking of his own Body, in which the Divinity really dwelt) <hi>and in three days I will raiſe it up again.</hi> Here he plainly fore-aſſigns his Reſurrection from the dead, by his own Power; as the greateſt Evidence that he was, what he pretended, <hi>the Son of God;</hi> in whoſe hu<g ref="char:EOLhyphen"/>mane Nature the Divine really inhabited. For theſe Words were, as if he had ſaid, I have given you Signs, and wrought Wonders already, which if they will not convince you, then you muſt ſtay till my Reſurrection, which will undeniably prove that which you queſtion: It being impoſſible I ſhould raiſe my Body from the dead, if I were not really the Son of God.</p>
+               <p>And thus we read alſo in St. <hi>Matthew,</hi> that ano<g ref="char:EOLhyphen"/>ther Company, upon another Occaſion, asked him the ſame Queſtion more than once, XII. 38. XVI. 1. and his Anſwer was, <hi>A wicked and adulterous genera<g ref="char:EOLhyphen"/>tion ſeeketh after a ſign, (i. e.</hi> after ſo many Signs had been already given, it was a Token of a depraved diſ<g ref="char:EOLhyphen"/>poſition to call for more) <hi>there ſhall none be given to them, but the ſign of the prophet Jonas.</hi> This was all that remained for the Conviction of obſtinate
+<pb n="7" facs="tcp:93239:7"/>
+People: Such a wonderful thing as the Deliverance of <hi>Jonas</hi> out of the Whale's Belly, after he had been there buried three days: Or rather a far grea<g ref="char:EOLhyphen"/>ter Wonder; the Reſurrection of Chriſt, after he had been ſo long actually dead, and buried in the Earth.</p>
+               <p>This was more than all the Miracles he had wrought while he was alive. Which was the Reaſon (as <hi>Theo<g ref="char:EOLhyphen"/>phylact</hi> obſerves) why he wrought none after his Reſurrection; becauſe that was the greateſt, the moſt aſtoniſhing Miracle: Able, by it ſelf alone, to prove that he was the Son of God. There needed no more, but only the Coming of the Holy Ghoſt, to prove that he was indeed riſen.</p>
+               <p>If he had come from the Croſs, as his Crucifiers de<g ref="char:EOLhyphen"/>ſired; it had not been ſuch a Wonder, as his Co<g ref="char:EOLhyphen"/>ming up out of his Grave, after they had ſeen him give up the Ghoſt upon the Croſs. His riſing to Life again, ſtruck all his Enemies dead. They knew not what to ſay, but only that he was not riſen. For if he were; then God (whoſe Power alone could raiſe a dead Man) had verified his Word, who ſaid he was the Son of God: And condemn'd theirs, who not only denied it, but pretended that in ſaying ſo, he committed Blaſphemy againſt God. If that had been true, God would never have coun<g ref="char:EOLhyphen"/>tenanc'd ſuch an impious Perſon, by raiſing him to Life again: But have been more concerned, than they, to confute his Word, which had been very eaſily done; by letting him lie and rot in his Grave. For he having given this Sign, of his be<g ref="char:EOLhyphen"/>ing the <hi>Son of God,</hi> if it had not come to paſs; all the Fame he had acquired by his Miracles, would have died with him. And it was impoſſible it ſhould
+<pb n="8" facs="tcp:93239:8"/>
+come to paſs if he had been a Deceiver and Blaſphe<g ref="char:EOLhyphen"/>mer; becauſe God, who alone could raiſe him, would never have lent any Support to a Lye, and to a Lye whereby his Majeſty was moſt highly af<g ref="char:EOLhyphen"/>fronted: much leſs would he have digged ſo deep into the Earth, (if I may ſo ſpeak) as to fetch him to Life out of his Grave; that he might lay ſuch a ſtrong Foundation as this, for Faith in his Name. No, he himſelf had declared by the Mouth of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> the Royal Anceſtor of this Perſon, that he would deſtroy all thoſe <hi>that ſpeak leaſing</hi> (or Lyes), V. <hi>Pſal.</hi> 6. And therefore would not have reſtored one to Life, whom they had deſtroyed upon that Account; if he had been indeed guilty of ſpeaking Lyes: But rather have taken care that their Sentence might have been confirmed, by keeping him for ever in his Tomb.</p>
+               <p>But ſince our Saviour thus preached, that he was the <hi>Son of God;</hi> and ſince he aſſerted this, with as great Plainneſs at his Death, as he had done in his Life; and ſince he foretold his own Reſurrection, and that by his own Power, and alledged it as the laſt and greateſt Sign of his Truth in this Aſ<g ref="char:EOLhyphen"/>ſertion; he hath proved it beyond Contradiction, by riſing again punctually at the time he appointed. Which is the Teſtimony of God to our Saviour; whereby he hath confirmed and eſtabliſhed our Sa<g ref="char:EOLhyphen"/>viour's Word: And, in effect, ſaid what he had ſaid himſelf, That he is the <hi>Son of God.</hi> Which Truth is the great Support and Comfort of our Souls: God having <hi>laid help</hi> (as it appears by this) <hi>upon one that is mighty to ſave:</hi> Becauſe he is really God, as well as Man. And therefore preſent to us at all times and in all places; privy to our moſt ſecret
+<pb n="9" facs="tcp:93239:8"/>
+Thoughts and Deſires, when we cannot ſpeak a Word; able to Succor every one, throughout the whole World, who comes to God by him, and depends upon his Almighty Grace.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>
+                  <hi>Secondly,</hi> This the Apoſtles had the greater rea<g ref="char:EOLhyphen"/>ſon to preſs, and imprint upon Mens Minds and Memories; becauſe the Reſurrection of Chriſt re<g ref="char:EOLhyphen"/>moved the greateſt Scandal that lay in the way, to the Belief of this fundamental Doctrine, of his being the Son of God: which was the <hi>Of<g ref="char:EOLhyphen"/>fence of the Croſs.</hi> This was a very great Stumbling-Block to the Jews (even to thoſe, who had ſome good Perſwaſions of our Saviour) that he, who ap<g ref="char:EOLhyphen"/>pear'd as their King, ſhould be crucified; that is, ex<g ref="char:EOLhyphen"/>poſed to the moſt ſhameful and ignominious Death in the World. This they thought would expoſe them al<g ref="char:EOLhyphen"/>ſo, to the Laughter and Scorn of their Neighbours, if they ſhould profeſs themſelves the Followers of oue who died amongſt Thieves: And whoſe Life was not valued, by the wiſe Men of their Nation, ſo much as the Life of a ſeditious Murderer. The Gentiles alſo thought this <hi>Fooliſhneſs,</hi> a meer ſottiſh Humour of ſome dull People; to addict themſelves to the Service of a Man, that hung upon a Gibbet, and there made a moſt ſhameful End.</p>
+               <p>And ſo they might have thought ſtill, if it had not been for his Reſurrection; which took away this Scandal: and made it appear, that it was no Folly nor Diſgrace, to honour one, whom God had moſt highly honoured above all other Men. His Glory now ſhone the brighter; becauſe the moſt baſe, ig<g ref="char:EOLhyphen"/>noble and infamous Death of all others, could not
+<pb n="10" facs="tcp:93239:9"/>
+obſcure it. He appeared now like this Sun; which after it hath been a while wrap'd up in a very thick Cloud, breaks forth with the greater Splendor.</p>
+               <p>This therefore was to be aſſerted, and firmly ſet<g ref="char:EOLhyphen"/>led, becauſe it advanced him above all other Law<g ref="char:EOLhyphen"/>givers, whatſoever: who ſtill lie in their Tombs; if their Aſhes have not been long ago ſcattered in<g ref="char:EOLhyphen"/>to the Air, and blown no body knows whether. They have a Memory indeed in Story; but it is that they are dead: and have no Authority now to demand Obedience to their Laws.</p>
+               <p>This exalts our Bleſſed Lord and Saviour above the greateſt Kings and Conquerors, that ever have been in the World: who after all their Atchieve<g ref="char:EOLhyphen"/>ments over others, were at laſt utterly defeated by Death; and ſo vanquiſhed as never to recover their Thrones any more. Search after the Sepulchres of all the <hi>Caeſars;</hi> read their Inſcriptions, if there be any remaining; and that which ſeems to raiſe their Names, and to make them great, in truth depreſſes them and lays them low: ſince after the loftieſt Titles upon their Monuments, they confeſs them to to lie buried underneath.</p>
+               <q>Hic jacet terrarum Dominus,</q>
+               <p>
+                  <hi>Here lies the Lord of all the Earth,</hi> was the high<g ref="char:EOLhyphen"/>eſt Stile wherein the goodlieſt Monuments of Earth<g ref="char:EOLhyphen"/>ly Monarchs could ſpeak. But our Saviour's Tomb ſpake another Language; or rather the Angels of God told his Diſciples when they came to viſit it.</p>
+               <q>
+                  <pb n="11" facs="tcp:93239:9"/>Surrexit, non eſt hic.</q>
+               <p>
+                  <hi>He is riſen, he is not here. Why ſeek ye the living among the Dead?</hi> XVI. <hi>Mark</hi> 6. XXIV. <hi>Luk.</hi> 5. He is <hi>Caelorum Dominus, the Lord of the Heavens,</hi> as well as of the Earth; whether you ſhall ſee him aſcend, and there he ſhall live for evermore. This great Lord never ceaſes to reign. He hath no Suc<g ref="char:EOLhyphen"/>ceſſor in his Kingdom: But, as God himſelf, ſitteth King for ever and ever.</p>
+               <p>Which when the Nations of the World heard, and it was ſubſtantially prov'd, how could they chuſe but ſay (notwithſtanding the Scandal of the Croſs) as they do in the Book of the Revelation?</p>
+               <p>
+                  <hi>Who would not fear thee, O LORD thou King of Saints? who would not glorifie thy Nome? for thou only art Holy;</hi> or Sacred. <hi>Thy Throne O God</hi> (as it is elſe where) <hi>is for ever and ever; the Scepter of thy Kingdom is a right Scepter: Thou loveſt Righte<g ref="char:EOLhyphen"/>ouſneſs and hateſt Iniquity; therefore God, even thy God hath anointed thee with the oyle of gladneſs a<g ref="char:EOLhyphen"/>bove thy Fellows:</hi> that is, raiſed him above all the Kings that ever were.</p>
+               <p>Thus with reſpect to Chriſt himſelf, we ought to commemorate his Reſurrection with the greateſt Joy (as I might ſhow, if it were not time to proceed to the other Particulars) becauſe it was in Order to his own Advancement, to the Throne of Glory, as the Reward of his ignominious Sufferings.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>
+                  <hi>Thirdly,</hi> As his Reſurrection did him more Ho<g ref="char:EOLhyphen"/>nour, than his Death had done him Diſgrace: ſo it proved likewiſe that by his Death he had given to
+<pb n="12" facs="tcp:93239:10"/>
+God, all the Satisfaction that he deſired. And there<g ref="char:EOLhyphen"/>fore is moſt neceſſary to be firmly believed, and ſtedfaſtly preſerved in our Memories, that we who do confeſs him, may all reſt aſſured, that by his Blood, which he ſhed upon the Croſs for us, he hath made a compleat Propitiation for the Sins of all the World.</p>
+               <p>He himſelf ſaid before he died, VI. <hi>Joh.</hi> 51. that he would <hi>give his Fleſh for the Life of the World:</hi> that is, offer up his own Body unto God, a volun<g ref="char:EOLhyphen"/>tary Sacrifice, to preſerve us from eternal Death. For he <hi>laid down his Life of himſelf,</hi> as he profeſſed. X. <hi>Joh.</hi> 18. and without his Conſent, no Man had power to take it away: And he truly laid it down: as <hi>the Blood of the New Teſtament, for the Remiſſion of Sins,</hi> as he likewiſe himſelf ſpeaks, juſt before his Death. XXVI. <hi>Mat.</hi> 28.</p>
+               <p>Now if his Blood had not been an acceptable Sacrifice unto God, upon this Account for which it was offered; or if there had remained any thing more to be done, which God required or expected from him, for the <hi>Expiation of our Sins</hi> (which was the End, he tells us, of his Sacrifice) God would not have raiſed him, out of his Grave. For that was not only to acquit him of all the pre<g ref="char:EOLhyphen"/>tended Crimes, for which the Jews unjuſtly con<g ref="char:EOLhyphen"/>demned him: But to free him alſo from <hi>the Ini<g ref="char:EOLhyphen"/>quity of us <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l, which the Lord</hi> (as the Prophet ſpeaks LIII. <hi>Iſa. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.) laid upon him;</hi> and to declare Publick<g ref="char:EOLhyphen"/>ly to al<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e World, that he had received full Sa<g ref="char:EOLhyphen"/>tisfacti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n for them, and demanded no more.</p>
+               <p>Nay, by his Reſurrection God not only teſti<g ref="char:EOLhyphen"/>fied that his Blood was moſt Precious in his Sight, and had obtained what he intended: but alſo enabled
+<pb n="13" facs="tcp:93239:10"/>
+him to go with it himſelf into the Heavens; there to perpetuate this Sacrifice to the End of the World; and by Virtue of it make Interceſſion for us.</p>
+               <p>For we are to look upon his riſing again after he was ſlain, to be in order to his doing juſt as the High-Prieſt under the Law did: who taking the Blood which had been ſhed at the Altar, on the great Day of Atonement, carried it into the moſt Holy Place, where the <hi>Glory of the LORD</hi> reſided; and there preſented it unto him: From whence, if he came forth alive, it was a final Declaration, that God was well pleas'd with the Sacrifice, and was at Peace with his People. In like manner did our Bleſſed Lord and Saviour, who is both our <hi>great High-Prieſt;</hi> and alſo our <hi>expiatory Sacrifice:</hi> af<g ref="char:EOLhyphen"/>ter his Blood had been ſhed upon the Croſs, ga<g ref="char:EOLhyphen"/>ther it up again at his Reſurrection, and go with it into the higheſt Heavens; there to appear with it, in the Preſence of God for us. And from thence hath already begun to bleſs us, by ſending the Ho<g ref="char:EOLhyphen"/>ly Ghoſt to us: as an undoubted Teſtimony, that his Blood hath made the Atonement, which he de<g ref="char:EOLhyphen"/>ſigned. Whereof we ſhall be more aſſured, at the conſummation of all things; when we ſhall ſee him come <hi>in Perſon</hi> out of the moſt Holy Place, at the laſt Day; and appear alive <hi>the ſecond time, without Sin unto Salvation.</hi> IX. <hi>Heb. ult.</hi>
+               </p>
+               <p>But for the preſent it is Evident by his Reſur<g ref="char:EOLhyphen"/>rection, and his ſending the Holy Ghoſt (which <hi>Tertullian</hi> well calls his <hi>Vis vicaria,</hi> or his <hi>Power which ſupplies his Place,</hi> till he come again) that he hath fully expiated our Sins; ſo as to <hi>obtain an Eternal Redemption for us:</hi> and will alſo appear in <hi>Perſon</hi> to our Salvation; becauſe he hath by the ſame Re<g ref="char:EOLhyphen"/>ſurrection
+<pb n="14" facs="tcp:93239:11"/>
+overcome Death, which was the Puniſh<g ref="char:EOLhyphen"/>ment of Sin.</p>
+               <p>The Conqueſt of that was a ſufficient Declarati<g ref="char:EOLhyphen"/>on, that Sin hath loſt its Power over thoſe, who by obedient belief on his Name are made one Body with him. They may be ſatisfied, that it can no more hold them for ever in its Chains, than it could him, whoſe Members they are. And conſequently that their Sins (of which Death, as I ſaid, was the Puniſhment) are certainly cancelled and blotted out: ſo that they may comfortably wait upon God, <hi>for his Son from Heaven, whom he hath raiſed from the Dead; even Jeſus which delivers us from the wrath to come, 1 Theſſ.</hi> 1. 10.</p>
+               <p>Whereas, if he had not riſen from the Dead, we could have had no aſſurance, no, not by his Death and Paſſion, of Remiſſion of Sin: Becauſe there would have been no Proof, that the Puniſh<g ref="char:EOLhyphen"/>ment of it (<hi>viz.</hi> Death) was taken away, without which we cannot be ſaid to be forgiven. No, St. <hi>Paul</hi> openly profeſſes, 1 <hi>Corinth.</hi> XV. 17. <hi>If Chriſt be not raiſed, your faith is vain: ye are yet in your Sins.</hi> They are not remitted, that is, but we are ſtill liable to undergo the Puniſhment of them: It is not apparent that we ſhall be acquitted, and freed from that Obligation to ſuffer the Puniſhment of Sin; unleſs we believe Chriſt's Reſurrection.</p>
+               <p>He made indeed a new Covenant in his Blood; which promiſes Remiſſion of Sin: But what Aſſu<g ref="char:EOLhyphen"/>rance can we have, that his Blood is accepted with God for this End; and that Chriſt hath Power to make good his Promiſe, to pardon our Sins, to re<g ref="char:EOLhyphen"/>leaſe us from the Puniſhment of them; by deli<g ref="char:EOLhyphen"/>vering us from Death and from the Wrath to come:
+<pb n="15" facs="tcp:93239:11"/>
+if he be not riſen from the Dead? None at all, but as St. <hi>Paul</hi> there aſſerts juſt before <hi>v. 15. If Chriſt be not riſen, then is our preaching vain; and your faith is alſo vain.</hi> We have no ground to pub<g ref="char:EOLhyphen"/>liſh, nor you to receive, ſuch great things as we promiſe: unleſs we are as ſure of this, as we are that Chriſt died.</p>
+               <p>Therefore this was abſolutely neceſſary to be e<g ref="char:EOLhyphen"/>ſtabliſhed and ſettled in the Minds of Believers, by all the Labour and Pains the Apoſtles could take; that as Chriſt <hi>was delivered for our Offences</hi> (they are the Words of the ſame St. <hi>Paul,</hi> IV <hi>Rom. ult.) ſo he was raiſed again for our juſtification.</hi> But further I muſt add that,</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>
+                  <hi>Fourthly,</hi> The Reſurrection of Chriſt was neceſ<g ref="char:EOLhyphen"/>ſary to be eſtabliſhed in Mens Belief and in their Remembrance, becauſe it was the verification of the whole Goſpel: the great Proof of all that Chriſt had taught his Diciples: the Chriſtian Religion in an Epitome: The Doctrine of Chriſt in one word. Which is the ground of that Speech of the Apo<g ref="char:EOLhyphen"/>ſtle, X. <hi>Rom. 9. If thou ſhalt confeſs with thy Mouth, the Lord Jeſus, and believe in thine heart, that God raiſed him from the dead; thou ſhalt be ſaved.</hi> This he makes to be the Summ of Chriſtian Belief; be<g ref="char:EOLhyphen"/>cauſe he that was perſwaded of this, and openly acknowledged it, muſt unavoidably believe and own the whole Goſpel. The truth of which, Chriſt ſealed by his Blood; and God the Father ſealed by raiſing him from the Dead. Which aſſured all that believed it, there was no other way to Life
+<pb n="16" facs="tcp:93239:12"/>
+and Happineſs, but that alone, which the Lord Je<g ref="char:EOLhyphen"/>ſus, who is <hi>the way, the truth and the life,</hi> had de<g ref="char:EOLhyphen"/>livered.</p>
+               <p>And a far greater Teſtimony this was, which God gave to the Goſpel; than had been given to the Law of <hi>Moſes:</hi> for after he was buried, we hear no more of him, till our Saviour ſaw him in the holy Mount, together with <hi>Elias:</hi> where they diſ<g ref="char:EOLhyphen"/>courſed with him of his glorious <hi>deceaſe which he ſhould accompliſh at Jeruſalem. Moſes</hi> indeed wrought Miracles; he heard Voices from Hea<g ref="char:EOLhyphen"/>ven; there were Appearances of Angels to him up<g ref="char:EOLhyphen"/>on ſome Occaſions; his Face ſhone, as our Saviour's did when he was transfigured: But as moſt of theſe were more frequent, and all of them more glori<g ref="char:EOLhyphen"/>ous in the giving of the Goſpel; ſo, beſides them all, the Author of it roſe from the Dead, as he ſaid he would, to prove that God, who had ſent Prophets before, had now ſent his Son to publiſh his Will unto the World.</p>
+               <p>If we believe this, then we are obliged, and there is no way to avoid it, to entertain all his Doctrine; to lay to Heart his Commands; to take upon us his Yoke, and ſubmit our ſelves to the Government of his Laws: and that, as we hope to obtain remiſſion of Sins, and eternal Bliſs; which are promiſed to none but the Obedient. On the contrary, Tribu<g ref="char:EOLhyphen"/>lation and Anguiſh, Indignation and Wrath, are threatned to all thoſe that do Evil: which the Re<g ref="char:EOLhyphen"/>ſurrection of Chriſt aſſures us, he will not fail to inflict upon them.</p>
+               <p>And here it will be fit to obſerve theſe two things, which are very manifeſt.</p>
+               <p>
+                  <pb n="17" facs="tcp:93239:12"/>
+                  <hi>Firſt,</hi> That the Reſurrection of Chriſt moſt evi<g ref="char:EOLhyphen"/>dently proved, that no Man was bound any longer to obſerve any Laws formerly in force, which are not contained in the Law of the Goſpel. But,</p>
+               <p>
+                  <hi>Secondly,</hi> That we are all thereby neceſſarily and indiſpenſably tied, ſtrictly to obſerve this Law, which Chriſt hath laid upon us.</p>
+               <p>I. <hi>Firſt,</hi> I ſay, it proved the Diſſolution of all former Laws, though of God's own making; and ſolemnly delivered by <hi>Moſes</hi> unto the Jewiſh Nati<g ref="char:EOLhyphen"/>on. Who were very hard to be perſwaded, that they needed no longer to trouble themſelves with thoſe carnal Ordinances; which required them to make a difference of Meats; to waſh their Bo<g ref="char:EOLhyphen"/>dies after ſeveral Defilements; to wear only a certain kind of Garment, and offer ſuch Sacrifices as <hi>Moſes</hi> preſcribed, (which were a very heavy bur<g ref="char:EOLhyphen"/>den to them) but only give up themſelves to Chriſt, to be ruled by his eaſie and gentle Laws, of Tem<g ref="char:EOLhyphen"/>perance and Chaſtity, Meekneſs and Humility; Ju<g ref="char:EOLhyphen"/>ſtice and Charity; being ready to do good, and to forgive; as well as to worſhip God in Spirit and in Truth. For unto this the Jews objected, that God had made a Covenant with their Fathers, by the Miniſtry of <hi>Moſes,</hi> requiring ſuch Obſervances: And that they could not abſolve themſelves from that Bond, which they had received by being cir<g ref="char:EOLhyphen"/>cumciſed: but ſtood in dread of being cut off (as the Law threatened) if they did not receive that Obligation, by Circumciſion, to obſerve the whole Law of <hi>Moſes.</hi>
+               </p>
+               <p>
+                  <pb n="18" facs="tcp:93239:13"/>Unto which the Apoſtle St. <hi>Paul</hi> gives ſatisfaction after this manner, (VII. <hi>Romans</hi> beginning) a Law (as you all know who are bred up under the Diſci<g ref="char:EOLhyphen"/>pline of the Law) can have dominion over a Man, no longer than he lives under that Law. As for ex<g ref="char:EOLhyphen"/>ample, a married Woman, cannot be bound by the Law to her Husband any longer than he lives. If he die, ſhe is ſo looſe from her Husband, that though while he lived, ſhe could not honeſtly marry ano<g ref="char:EOLhyphen"/>ther man, yet he being dead, ſhe may give her ſelf in marriage to another perſon, and be no Adulte<g ref="char:EOLhyphen"/>reſs. This is the ſenſe of the three firſt Verſes of that Chapter. To which the Jews might reply; True, if we were no more bound to <hi>Moſes</hi> his Law, than a Wife is bound to her Husband when he is dead, your Argument would be good: But how doth it appear that the Law of <hi>Moſes</hi> is dead, as it ſuppoſes? For if it be not dead, we are ſtill tyed to it by your own Confeſſion. Unto this the Apoſtle goes on to give ſatisfaction in the fol<g ref="char:EOLhyphen"/>lowing Words, <hi>v.</hi> 4. <hi>Wherefore, my Brethren,</hi> (i. e. if you allow my Principle, then thus I demonſtrate your Obligation to the Law ceaſes) <hi>ye alſo are become dead to the law by the body of Chriſt, that ye ſhould be married to another, even to him, who is raiſed from the dead, that ye ſhould bring fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th fruit unto God.</hi> In which Words he aſſerts, that by the Death of Chriſt (for that he means by <hi>his Body</hi>) there was an end put to their Law: From all Obligation to which they were as much releaſed; as a Wife is from her Husband, when he is gone out of this World (that's the meaning of <hi>ye are become dead to the Law by the body of Chriſt</hi>) for the whole Law of <hi>Moſes</hi> depended upon their Sacrifices; which all
+<pb n="19" facs="tcp:93239:13"/>
+having reſpect to the Sacrifice of Chriſt, his Body being offered up, put a Concluſion to them (which could have no effect, if they continued them) and demon<g ref="char:EOLhyphen"/>ſtrated they had no Obligation to obſerve that Law: But were left free now, to ſubject themſelves to a new Law (which he calls being <hi>married to another</hi>) and they might eaſily know whoſe Law that was, even his <hi>who is raiſed from the dead.</hi> They were really abſolved from the <hi>Moſaical</hi> Religion, by the Death of Chriſt's Body; as much as a Wife is from her Husband, when he is extinct: But that which fully convinced them of it, and moved them to embrace a New Religion, was the Reſurrection of that Body of Chriſt from the dead. They could not have believed their Freedom, and ſo none would have forſaken their old Diſcipline, and betaken themſelves to Chriſt: if his Reſurrecti<g ref="char:EOLhyphen"/>on had not followed his Death; which ſolidly pro<g ref="char:EOLhyphen"/>ved the Efficacy of it to aboliſh the Law of <hi>Moſes.</hi> For this being eſtabliſhed, none could ſee any good Reaſon to adhere ſtill to their former Rites and Ce<g ref="char:EOLhyphen"/>remonies: there being ſuch a powerful Proof of the Authority of Chriſt, to take them all away, and ſet<g ref="char:EOLhyphen"/>tle a better way of living in their room; which the Apoſtle calls <hi>bringing forth fruit unto God.</hi>
+               </p>
+               <p>And as this was an Argument to perſwade the Jews to forſake their Rites, though appointed by God; ſo it effectually prevailed with the Gentiles to renounce their idolatrous Worſhip, as we read 1 <hi>Theſſ.</hi> 1. 9, 10. <hi>Ye know what manner of entrance we had unto you, and how ye turned from Idols to ſerve the living and true God; and to wait for his Son from hea<g ref="char:EOLhyphen"/>ven, whom he raiſed from the dead,</hi> &amp;c. We have all great reaſon ſo to do, and to be exact and faith<g ref="char:EOLhyphen"/>ful in his Service: looking upon our ſelves as moſt
+<pb n="20" facs="tcp:93239:14"/>
+ſtrictly tyed to the Obſervance of thoſe Laws, which are confirmed to be the Will of God, by ſuch a Demonſtration, as the Reſurrection of him that gave them from the dead. This evidently ſhews, which is the other thing I mentioned.</p>
+               <p>II. That they are utterly inexcuſable, who break looſe from the Laws of Chriſtianity; which hath ex<g ref="char:EOLhyphen"/>cuſed us from all other Obligations. For that very reaſon, we are the more ſtrictly bound to obey the Goſpel; becauſe we are thereby abſolved from the Law of <hi>Moſes.</hi> The Reſurrection of Chriſt doth not more effectually prove, for inſtance, that the Sacri<g ref="char:EOLhyphen"/>fices which he ordained (and ſuch like Rites) are all aboliſh'd; than it proves the indiſpenſable Obliga<g ref="char:EOLhyphen"/>tion that is upon us, to offer unto God continually, the Sacrifices which Chriſtianity preſcribes. Which are principally theſe.</p>
+               <p>
+                  <hi>Firſt,</hi> The Sacrifice <hi>of a broken and contrite Heart:</hi> truly grieved for our Sins paſt, and ſincerely reſolved to do better for the time to come. That is, un<g ref="char:EOLhyphen"/>feigned Repentance, which was ever neceſſary be<g ref="char:EOLhyphen"/>fore that Law was given.</p>
+               <p>
+                  <hi>Secondly,</hi> The Sacrifice of our <hi>own Body,</hi> (XII. <hi>Rom.</hi> 1.) That is, of our ſelves to God: which we muſt devote to him, in Purity and Holineſs, Temperance and Soberneſs, Meekneſs and Humility, and ſuch like Vertues; which are infinitely more acceptable, than all the Beaſts in the World.</p>
+               <p>
+                  <hi>Thirdly,</hi> The Sacrifice of <hi>Praiſe and Thankſgiving</hi> to God (XIII. <hi>Heb.</hi> 15.) who hath made us Parta<g ref="char:EOLhyphen"/>kers of his Grace in Chriſt: which ſhews us the way
+<pb n="21" facs="tcp:93239:14"/>
+to be more happy, than we could poſſibly invent, had we the whole World at will.</p>
+               <p>
+                  <hi>Fourthly,</hi> The Sacrifice of all our <hi>Animoſities</hi> and angry Reſentments; which muſt be intirely gi<g ref="char:EOLhyphen"/>ven up to God, for this Reaſon: Becauſe <hi>Chriſt our Paſſover,</hi> or Paſchal Lamb, <hi>is offered for us: There<g ref="char:EOLhyphen"/>fore let us keep the feaſt, not with the old leaven of malice and wickedneſs, but with the unleavened bread of ſincerity and truth,</hi> 1 <hi>Corinth.</hi> V. 7, 8. which was part of the <hi>Anthem</hi> yeſterday. For it is vain to pre<g ref="char:EOLhyphen"/>tend to love God, if we hate one another. The Praiſes we beſtow upon him will ſignifie nothing; if we jarr and quarrel among our ſelves. This will ſpoil all the Melody of our Pſalms and Hymns and ſpiritual Songs; wherein at this Feſtival we laud his Holy Name.</p>
+               <p>
+                  <hi>Laſtly,</hi> The Sacrifice of <hi>Alms</hi> ſeems to be the chief of all: which the Apoſtle would no more have us to forget, than the Reſurrection of Chriſt from the dead, XIII. <hi>Heb.</hi> 16. <hi>But to do good, and to commu<g ref="char:EOLhyphen"/>nicate forget not; for with ſuch ſacrifices God is well pleaſed.</hi> He had been proving in the foregoing part of the Epiſtle, that Chriſt being riſen from the dead, was not only gone into the Heavens: but there made an high Prieſt <hi>at the right hand of the throne of the Majeſty in the Heavens,</hi> VIII. 1. whereby he can by vertue of his Sacrifice, once offered, do that for us, which the Prieſts of old could not, by all the Sacrifices which they offered daily: Bring us, <hi>i. e.</hi> into that <hi>high and holy place, by a new and living way which he hath conſecrated for us through the veil; that is to ſay, his fleſh,</hi> which he offered for us. From whence he infers, that as all Chriſtians ſhould hold
+<pb n="22" facs="tcp:93239:15"/>
+faſt their Profeſſion, with a true Heart and pure Conſcience: conſtantly induring with ſuch a ſted<g ref="char:EOLhyphen"/>faſt Faith as was in the ancient Worthies whatſoever God pleaſes: Having Chriſt eſpecially in their eye, <hi>the author and finiſher of our faith,</hi> &amp;c. So he at laſt, in the Concluſion of all, preſſes the great Du<g ref="char:EOLhyphen"/>ty of Charity; <hi>v.</hi> 1. of this <hi>XIIIth.</hi> Chapter, <hi>Let brotherly love continue.</hi> Which he illuſtrates by ſome inſtances, in the two following verſes: and then, after ſome other inſtructions, renews his Exhortati<g ref="char:EOLhyphen"/>on, in theſe famous Words I have now mentioned: <hi>But to do good and to communicate forget not: for with ſuch ſacrifices God is well pleaſed.</hi> And let me preſs the ſame Duty upon you (before I proceed any further) as both the Feaſt which we keep, and the Place where we are aſſembled, and the Occaſion of our meeting together require.</p>
+               <p>WE are here aſſembled in the Houſe of God, to commemorate the wonderful Love and Power of God in the Reſurrection of Jeſus Chriſt from the dead. For which, I doubt not, you are all ready devoutly to offer unto him, <hi>the ſacrifice of praiſe, giving thanks unto his name:</hi> as the foregoing words (<hi>v.</hi> 15.) exhort you. But the Apoſtle tells you further, that you muſt not content your ſelves, nor think to pleaſe God, with empty Praiſes and Acknow<g ref="char:EOLhyphen"/>ledgments: but <hi>remember to do good and communi<g ref="char:EOLhyphen"/>cate</hi> to the Neceſſities of others; for theſe are the Sacrifices which are moſt grateful to his Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+               <p>
+                  <pb n="23" facs="tcp:93239:15"/>There was an expreſs Command in the Law of <hi>Moſes</hi> which we find often repeated, that when the Children of <hi>Iſrael</hi> came to worſhip the LORD, <hi>None ſhould appear before him empty.</hi> Which was firſt ordained, I obſerve, when he enjoyned them to keep the Feaſt of the Paſſover, XXIII. <hi>Exod.</hi> 15. But it is afterwards explained to be meant alſo of the other two great Feaſts (mentioned in the fol<g ref="char:EOLhyphen"/>lowing Verſes) XVI. <hi>Deuteron. 16. Three times in the year ſhall all thy males appear before the Lord, in the place which he ſhall chuſe,</hi> &amp;c. <hi>and they ſhall not appear before the Lord empty.</hi> That is, without ſome Preſent unto him, as a Tribute of Thankful<g ref="char:EOLhyphen"/>neſs for the Benefits they had received; and as an Acknowledgment, that he was the ſupreme Lord of all, and they but Tenants under him.</p>
+               <p>Which Precept is not leſs reaſonable to be obſer<g ref="char:EOLhyphen"/>ved now, than it was under the Law; but far more reaſonable: He being our Lord by an higher Title, of our Redemption by Chriſt Jeſus; and the Bleſſings of the Goſpel, for which we make our thankful Acknowledgments, infinitely tranſcending their Deliverance out of the Bondage of <hi>Egypt,</hi> and the fruitful Seaſons which they afterwards enjoyed in the Land of <hi>Canaan.</hi>
+               </p>
+               <p>Therefore if not at all our holy Aſſemblies, yet at our principal Feſtivals (which are <hi>Three</hi> alſo) we are bound ſure to bring along with us, ſome Alms and Oblations to our Almighty Benefactor. Particu<g ref="char:EOLhyphen"/>larly now at this Feaſt, which is anſwerable to their Paſſover; no Man ought to appear before the Lord empty: But full, at leaſt, of moſt hearty Reſolu<g ref="char:EOLhyphen"/>tions, that he will do ſome charitable Act or other;
+<pb n="24" facs="tcp:93239:16"/>
+as a Token of his Gratitude to God, who hath done ſo much for him; and as a Recognition of his ſu<g ref="char:EOLhyphen"/>preme Dominion over all.</p>
+               <p>It is always a <hi>Chriſtian Duty</hi> to contribute to the Relief of thoſe that are in need: But now, at ſuch a time as this, it is a <hi>piece of Worſhip:</hi> A part of the Divine Service; without which our ſolemn Feaſts and Praiſes of God, will be but empty Sounds, and avail us Nothing.</p>
+               <p>Let us therefore be careful not to forget to do good; but together with the Sacrifice of Praiſe and Thankſgiving offer this moſt acceptable Sa<g ref="char:EOLhyphen"/>crifice; which God expects ſhould attend upon the other.</p>
+               <p>Never fail to communicate to others; when you commemorate how bountiful God hath been to you. Eſpecially now, when you remember the Lord <hi>Jeſus</hi> was raiſed from the dead, to be your Ad<g ref="char:EOLhyphen"/>vocate with the Father, and to exerciſe the Office of a merciful and compaſſionate High-Prieſt for you in the Heavens; Let it raiſe and ſtir up in your hearts bowels of Mercy and Pity, for the Help and Relief of your diſtreſſed Brethren.</p>
+               <p>When you feel your Hearts moved to give thanks to God, ſaying with St. <hi>Peter</hi> I. 13. <hi>Bleſſed be the God and Father of our Lord Jeſus Chriſt, which ac<g ref="char:EOLhyphen"/>cording to his abundant mercy hath begotten us again unto a lively hope, by the reſurrection of Jeſus Chriſt from the dead;</hi> let this grateful Senſe of his Goodneſs, move you alſo to be <hi>merciful, as your heavenly father is merciful;</hi> that thereby you may excite others to bleſs him as well as your ſelves.</p>
+               <p>
+                  <pb n="25" facs="tcp:93239:16"/>Do Good to the Poor and Needy, becauſe he is ſo very Good to you, as to make you able to do Good to them. And the more Good God hath done any of you; look upon your ſelves as bound to do the more to others. For that was the Rule, which God gave for their Charity, at the Three great Feſtivals amongſt the Jews, as you read XVI. <hi>Deut. 17. Every Man ſhall give as he is able, according to the bleſſing of the LORD thy God, which he hath given thee.</hi>
+               </p>
+               <p>Conſider now how God hath bleſſed every one of you here preſent, and then look upon your ſelves as engag'd to offer to him ſomething proportiona<g ref="char:EOLhyphen"/>ble, for the Comfort of others, at this time: When you appear before him to thank him, for the great Bleſſings, of all ſorts, which you enjoy by the Favour of his Goodneſs towards you. And that for theſe <hi>two</hi> Reaſons.</p>
+               <p>
+                  <hi>Firſt,</hi> Becauſe the Commemoration of Gods Bene<g ref="char:EOLhyphen"/>fits to us, of whatſoever kind they be, neceſſarily ob<g ref="char:EOLhyphen"/>liges us (nay, if we have any ſenſe, naturally inclines us) to make ſome ſuitable return to him. Who need<g ref="char:EOLhyphen"/>ing nothing himſelf, bids us give it to thoſe that do: and he will take it, as beſtowed upon him. And</p>
+               <p>
+                  <hi>Secondly,</hi> Becauſe it is the very intention of this particular Benefit, which we now commemorate, <hi>viz.</hi> Chriſts Reſurrection from the Dead; to raiſe up our hearts above this World, and to quicken us to all good Works: of which theſe Sacrifices are the chief. So that he hath but a Name to live, who ſtill re<g ref="char:EOLhyphen"/>mains covetous; and for whom no body is the bet<g ref="char:EOLhyphen"/>ter. He is dead and buried in earthly affections, and is not <hi>riſen with Chriſt:</hi> for if he were, he would
+<pb n="26" facs="tcp:93239:17"/>
+                  <hi>ſeek the things that are above</hi> (as the Apoſtle ſpeaks III. <hi>Coloſ.</hi> 1.) <hi>Lay up treaſure in heaven, and not ſet his heart on things here beneath.</hi>
+               </p>
+               <p>And accordingly we find this bleſſed fruit of the Reſurrection of Chriſt, as ſoon as ever it was pub<g ref="char:EOLhyphen"/>liſhed, in the firſt Converts to Chriſtianity. For <hi>all that believed</hi> (II. Acts. 44.) <hi>had all things common, and ſold their poſſeſſions and goods, and parted them to all men, as every man had need.</hi> Immediately, that is, their minds were quite taken off from this World; and they apprehended nothing more neceſſary, than to make proviſion for another World, where Chriſt is: by imploying all that they poſſeſſed here, in the beſt manner they could, for his ſervice. As you are further informed IV. <hi>Acts.</hi> 33. if it be rightly underſtood; <hi>with great power the Apoſtle gave witneſs of the Reſurrection; and great grace was upon them all.</hi> This <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <hi>GRACE</hi> was <hi>Charity:</hi> as appears by the proof he gives of it, in the next words; <hi>Neither was there any among them that lacked; for as many as were poſſeſſed of lands or houſes ſold them, and brought the price of the things that were ſold, and laid them down at the Apoſtles feet: and diſtribution was made unto every man as he had need.</hi>
+               </p>
+               <p>You are not bound indeed to ſell all you have, and give it away to pious uſes, as they did (which was practiſed only at <hi>Jeruſalem,</hi> and in no other Church; for ſome ſpecial reaſons, not now to be mentioned) but yet you muſt not keep all you poſ<g ref="char:EOLhyphen"/>ſeſs to your ſelves; for the Apoſtles expected ſome of this Good Fruit in all other Churches, where they ſowed the Seed of the Goſpel. Which was wonderfully fruitful in ſome Churches; particu<g ref="char:EOLhyphen"/>larly
+<pb n="27" facs="tcp:93239:17"/>
+thoſe of <hi>Macedonia:</hi> who brought forth, as I may Say, <hi>an hundred Fold.</hi> For ſuch was the <hi>Grace of God</hi> beſtowed on them, that in <hi>a great trial of affliction, the abundance of their joy and their deep poverty, abounded unto the riches of their libera<g ref="char:EOLhyphen"/>lity:</hi> for they gave <hi>to their power,</hi> nay, <hi>beyond their power; praying</hi> the Apoſtle <hi>with much intreaty to re<g ref="char:EOLhyphen"/>ceive their gift,</hi> &amp;c. 2 <hi>Corinth.</hi> VIII. 1. 2. <hi>&amp;c.</hi> By which Noble Example St. <hi>Paul</hi> provokes the <hi>Corin<g ref="char:EOLhyphen"/>thian</hi> Church (<hi>v.</hi> 7.) to a pious Emulation of thoſe excellent Chriſtians; that <hi>as they abounded in every thing, in faith, in utterance, and knowledge,</hi> &amp;c. <hi>ſo they might abound in this GRACE alſo.</hi>
+               </p>
+               <p>And the like Fruit the Preaching of the Reſur<g ref="char:EOLhyphen"/>rection hath brought forth in abundance, among your worthy Anceſtors in this great City: elſe we ſhould not have had ſuch a large Catalogue of good Works, as I am now to <hi>report</hi> to you, of a a great Number of poor Children, and other poor People maintain'd in the ſeveral HOSPITALS under the pious Care of the LORD MAYOR, <hi>Commonalty</hi> and <hi>Citizens</hi> of the City of <hi>LONDON,</hi> the Year laſt paſt.</p>
+               <p>
+                  <hi>Here followed the Report.</hi>
+               </p>
+               <div type="report">
+                  <pb n="28" facs="tcp:93239:18"/>
+                  <head>AFTER THE REPORT.</head>
+                  <p>SEE here, Right Honourable and well beloved, what powerful Motives you have to this <hi>Grace,</hi> as the Apoſtle calls it. You have the worthy Ex<g ref="char:EOLhyphen"/>amples of thoſe who have gone before you in well<g ref="char:EOLhyphen"/>doing: which it is ranck Hypocriſie, to commend and extol, without imitation. You have the Care and Fidelity of thoſe who are intruſted with their Bounty, to provoke you to this ſort of Charity, in augmenting the Revenues of the Several <hi>Hoſpitals.</hi> Both becauſe you are ſure what is ſo beſtowed, will be faithfully employed; and imployed to the re<g ref="char:EOLhyphen"/>lief of thoſe who are undoubtedly neceſſitous: and becauſe their Revenues, you ſee by the <hi>Report,</hi> are much impaired; and yet very conſiderable Num<g ref="char:EOLhyphen"/>bers have been moſt mercifully relieved.</p>
+                  <p>For to the Honour of this Renowned City be it ſpoken, and to the Honour alſo of our Religi<g ref="char:EOLhyphen"/>on, there have not been more noble things of this Kind done in any Place of the World, than have been done here ſince the Reformation of Religion. Which they of the Romiſh Faction have been wont to revile with moſt impudent Calumnies, ſay<g ref="char:EOLhyphen"/>ing; that <hi>good works dyed, together with their way of devotion; and that we have nothing but an empty faith left among us.</hi> Which is like all the reſt of the Impoſtures, whereby that Religion ſubſiſts. For this was confuted in the very beginning of the Re<g ref="char:EOLhyphen"/>formation.
+<pb n="29" facs="tcp:93239:18"/>
+Forty Years after which (now above an <hi>hundred</hi> Years ago) a great Man, <note n="*" place="margin">Dr. (af<g ref="char:EOLhyphen"/>terwards Biſhop) <hi>Andrews</hi>'s Sermon at the <hi>Spittle,</hi> 1588. pag. 17.</note> upon this very occaſion, challenged <hi>Rome</hi> or any other Ci<g ref="char:EOLhyphen"/>ty in Chriſtendom to produce ſuch a Show as we ſee here this Day. And it is much increaſed, I doubt not, ſince that Time: Though then, he ſaith, he was able to prove, that <hi>there had been more done for the increaſe of Learning, and providing for the Poor, within thoſe Forty Years, ſince the Church was reform'd from its Errors, than had been done in any Chriſtian Realm, not only within the ſame Forty Years</hi> (which was ſufficient to ſtop their Mouths) <hi>but in any Forty Years upward, during all the time of Po<g ref="char:EOLhyphen"/>pery.</hi>
+                  </p>
+                  <p>And if they were ſo liberal in thoſe Days, when they were but newly crept out of the Darkneſs of Superſtition; how much more ſhould we abound in this Virtue, who by God's ſingular Goodneſs have long enjoy'd the Light of the Goſpel? Who have had alſo ſo many Examples ſince of bounti<g ref="char:EOLhyphen"/>ful Benefactors: who have been taught this Duty ſo frequently: and been taught it, not only by God's Word, but by his Rod. Whoſe Diſcipline ſome years ago inſtructed us, how uncertain all our Poſſeſſions are: as we beheld in thoſe dreadful Flames, which conſumed ſo many goodly Buildings; and ſpared neither God's Houſes nor the Poors.</p>
+                  <p>And now we have been very lately taught this Duty again, in a contrary Method; by the moſt merciful Deliverance, God hath graciouſly beſtow'd upon our King, this Church, and Kingdom, from the Hands of Blood thirſty Men. Who if they had ſucceeded in their execrable Deſignes of <hi>Aſſaſſination,
+<pb n="30" facs="tcp:93239:19"/>
+Inſurrection</hi> and <hi>Invaſion;</hi> this City, in all likely<g ref="char:EOLhyphen"/>hood, had been expoſed to ſpoil and rapine; if not laid deſolate: By the barbarous Cruelty of that Nation, which hath not been wont to ſpare thoſe of their own Religion, from the moſt terrible Exe<g ref="char:EOLhyphen"/>cutions; no not their Religious Houſes (as they call their <hi>Monaſteries</hi>) which they have laid in Heaps of Rubbiſh.</p>
+                  <p>This is a mighty reaſon we ſhould dedicate ſome part of thoſe Goods to God; which might have been all ravaged from us, if he had not moſt graciouſly ſecured them unto us.</p>
+                  <p>But there is a far ſtronger Reaſon; which is, that God ſtrictly requires this <hi>Grace</hi> of you, as you hope for Mercy from him, at that great Day when you muſt appear before our Lord, who <hi>being raiſed from the dead, is ordained by him to be the Judge of the quick and dead,</hi> X. <hi>Acts</hi> 41, 42. If he find then you have been wont to appear before him at theſe Solemnities, with empty Hearts and Hands; having put him off merely with verbal Praiſes; you muſt not expect a favourable Sentence from him: For, quite contrary, <hi>he ſhall have judgment without mer<g ref="char:EOLhyphen"/>cy, that hath ſhewed no mercy,</hi> II. <hi>Jam.</hi> 13.</p>
+                  <p>For they who have been unjuſt and fraudulent in their Dealing, who have oppreſſed their Brethren, or uſed any Extortion, can never anſwer it unto God; if they do not by giving Alms, purge their Eſtates from thoſe ill gotten Goods: which they cannot reſtore to their right Owners; becauſe they know not, perhaps, whom they have particularly wronged or where to find them.</p>
+                  <p>
+                     <pb n="31" facs="tcp:93239:19"/>And as for thoſe who have honeſtly gotten their Eſtates, they are plainly bound in gratitude to God, to make him a Preſent of ſome Portion of them: who is the Donor of the whole; and expects ſuch an acknowledgment of his Divine Bleſſing upon their true Endeavours.</p>
+                  <p>And whether you have done thus, aſſure your ſelves will be ſtrictly examined at that great Day; as our Saviour himſelf teacheth us, in that known Place, XXV. <hi>Matth. 34, &amp;c.</hi> Which I beſeech conſider at your leiſure. Some then will be apt to ſay (according as the proceedings at his Tribu<g ref="char:EOLhyphen"/>nal are there repreſented) <q>Lord, though I have been a great Sinner, yet I have been very Peni<g ref="char:EOLhyphen"/>tent for my Offences: and have not only very ſorrowfully bewailed them, but utterly forſaken them. How doth that appear, will the Judge then inquire? Have you reſtored that which was deceitfully and unjuſtly gotten? or have you gi<g ref="char:EOLhyphen"/>ven it to the Poor, as I directed you in thoſe Words, <hi>give Alms of ſuch things as you have: and behold, all things are clean unto your,</hi> XI. <hi>Luke</hi> 41? (And)</q> if you cannot return the <hi>Anſwer of a good Conſcience,</hi> and faithfully ſay you have ſo done; your Repentance will be rejected.</p>
+                  <p>
+                     <q>And if others plead their Juſtice and honeſty; that they never wronged or defrauded any bo<g ref="char:EOLhyphen"/>dy; but always paid every Man his own; the Judge will demand, but what Good did you do; with all the Wealth, that I bleſſed your honeſt Diligence with all? you have been juſt, it is true; but have you been charitable? have you ſupplied the Needs of the Poor? fed the Hungry? cloath'd
+<pb n="32" facs="tcp:93239:20"/>
+the Naked? taken Care of the Sick, and of the Priſoners, <hi>&amp;c.</hi>
+                     </q> If not; your Juſtice will prove a lame and defective Vertue: unable to ſupport you, and make you ſtand in that dreadful Judgment.</p>
+                  <p>Now that there will be ſuch an <hi>Audit,</hi> wherein e<g ref="char:EOLhyphen"/>very Man ſhall be accountable to God for what he hath done in the Body, the Reſurrection of Chriſt, which we now remember, is the great and moſt convincing Proof: As the Apoſtle teaches us, in XVII. <hi>Acts</hi> 30, 31. where he ſaith, <hi>God commands all Men every where to repent, becauſe he hath ap<g ref="char:EOLhyphen"/>pointed a day, wherein he will judge the world in righteouſneſs, by that man whom he hath ordained; whereof he hath given aſſurance to all men, in that he hath raiſed him from the dead.</hi>
+                  </p>
+                  <p>Which leads me now to the next general Head, propounded in the Beginning.</p>
+               </div>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>
+                  <hi>Fifthly,</hi> That the Reſurrection of Chriſt is a moſt evident demonſtration of future Rewards in the o<g ref="char:EOLhyphen"/>ther World, to all that <hi>live godly in Chriſt Jeſus.</hi> For, as it verified his whole Goſpel, of which this is a Part, that <hi>they that believe in him ſhall have ever<g ref="char:EOLhyphen"/>laſting life:</hi> So it is an Inſtance and Example of the Truth of it; that they who do well ſhall not go unrewarded, how ill ſoever they be uſed here. For our Lord is <hi>the firſt fruits of thoſe that ſleep:</hi> and hath ſhown by what is done for him, what he will certainly do for us. And it is to be conſider<g ref="char:EOLhyphen"/>ed alſo, that he hath power, by his Reſurrection, to perform his own Promiſe: The Gift of Eternal
+<pb n="33" facs="tcp:93239:20"/>
+Life is in his own hands. <hi>For this is the record, that God hath given us eternal life, and this Life is in his Son. He that hath the Son, hath life; and he that hath not the Son, hath not life,</hi> 1 John V. 11, 12. That is, all the Witneſſes to the Truth of Chriſtianity, teſtifie this; that God will give us Eternal Life; and that it is in his Son's Power to beſtow it: And therefore he that is a Chriſtian, (<hi>i. e.</hi> ſincerely and effectually believes on his Son) that Man may be confident of Eternal Life.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>
+                  <hi>Sixthly,</hi> Which is the moſt powerful Encourage<g ref="char:EOLhyphen"/>ment to patient continuance in well doing, though after all the good we do here, we ſhould ſuffer never ſo much for Righteouſneſs ſake. This, as well as the former, would deſerve to be enlarged, if I had room for it in this Diſcourſe; which is to be con<g ref="char:EOLhyphen"/>fined within the bounds of a Sermon. Which though I am unwilling to tranſgreſs, yet I beg leave to ſay a few words of this laſt thing; becauſe my Text hath a particular reſpect to it.</p>
+               <p>The Apoſtle, you heard in the beginning, had ex<g ref="char:EOLhyphen"/>horted his Son <hi>Timothy</hi> to <hi>endure hardſhip as a good Souldier of Jeſus Chriſt;</hi> and not to flinch from his Duty, though he encountred in the diſcharge of it never ſo many difficulties. Which he knew he would eaſily overcome, if he did but remember <hi>Jeſus</hi> his Lord and Maſter, <hi>of the ſeed of David;</hi> and how he was <hi>raiſed from the dead according to his Goſpel.</hi> This was ſufficient to inſpire him with Courage and Reſolution, if he always kept it in mind. For
+<pb n="34" facs="tcp:93239:21"/>
+what if he was perſecuted? What if he was re<g ref="char:EOLhyphen"/>proached, and vilified, and turned out of doors, <hi>&amp;c.</hi> So was <hi>David;</hi> ſo was <hi>Jeſus;</hi> who was every way <hi>of the ſeed of David:</hi> Both as he was born of that Family; and as he endured the like Per<g ref="char:EOLhyphen"/>ſecutions and vile Uſage from the <hi>Phariſees,</hi> as <hi>David</hi> had from <hi>Saul:</hi> But both their Sufferings, <hi>David</hi>'s and and <hi>his,</hi> ended at laſt in a Kingdom; and, as St. <hi>Paul</hi> ſaith elſewhere of our Saviour, <hi>Though he was cruciſied through weakneſs, yet he lives by the power of God, 2 Cor.</hi> XIII. 4.</p>
+               <p>Let us then be of good courage, for <hi>becauſe he lives we ſhall live alſo:</hi> And where <hi>he is, there ſhall his faithful ſervant be alſo.</hi> So he hath told us himſelf; <hi>who is the faithful and true witneſs; the firſt begotten from the dead; the Prince of all the Kings of the Earth:</hi> Who will never ſuffer thoſe who are faithful to him, to loſe by his Service; but beget them all again, after they are dead unto an endleſs and heavenly Life; that they being Chil<g ref="char:EOLhyphen"/>dren of the Reſurrection, may reign with him in his celeſtial Kingdom.</p>
+               <p>
+                  <hi>Ye have heard,</hi> ſaith St. <hi>James,</hi> v. II. <hi>of the pati<g ref="char:EOLhyphen"/>ence of Job, and have ſeen the end of the Lord: that the Lord is very pitiful, and of tender mercy.</hi> For all his Affliction concluded, in a far more flouriſhing Condition than he enjoyed before they befel him: And if we could believe, what is added in ſome Copies of the <hi>LXX</hi> to that Book, he was alſo made Partaker of ſuch an Honour, as ſet a ſpecial mark of God's Favour upon him; and declared how highly he valued his Patience. For after the laſt words of that Book of <hi>Job</hi> according to the Original (<hi>So Job
+<pb n="35" facs="tcp:93239:21"/>
+died old, and full of days</hi>) ſome <hi>Greek</hi> Copies add, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>It is written alſo that he ſhould riſe to life again, with thoſe whom the Lord raiſeth up.</hi> The word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (<hi>again,</hi>) ſaith <hi>Olympiodorus,</hi> denotes that he ſhould have another Reſurrection here, beſides that which he had from Poverty and Miſery to a ſplendid State of Proſpe<g ref="char:EOLhyphen"/>rity: and that was when Chriſt roſe from the dead. When <hi>the graves were opened, and many bodies of Saints which ſlept aroſe, and came out of the graves after his Reſurrection, and went into the holy city, and appeared unto many,</hi> XXVII. Matth. 52, 53. Now by <hi>Suidas</hi> and others it appears, that there was a Tradition which ſome believed, that <hi>Job</hi> was among thoſe <hi>Saints</hi> that aroſe with our Saviour; which if it be true, was to demonſtrate the high Eſteem that God hath of humble Patience; which moved him to do this Man the Honour of accompanying our Saviour at his Reſurrection, who had been ſo me<g ref="char:EOLhyphen"/>morable for this Vertue. For ſo <hi>Suidas</hi> his words are, He triumphed gloriouſly after his Agonies; he ſet up his Trophies: Not ſuch as thoſe in the <hi>Olympicks,</hi> or other celebrated Games among the <hi>Greeks;</hi> but far more honourable. For beſides what God reſtored to him of worldly Bleſſings before he died, this was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the laſt and greateſt Prize which he won, to riſe to Life again with our Savi<g ref="char:EOLhyphen"/>our, when he overcame Death.</p>
+               <p>But howſoever that be, we have <hi>a more ſure word</hi> (as St. <hi>Peter</hi> ſpeaks) upon which to build our Faith, and ſupport our Patience in well doing. <hi>For if we believe that Jeſus died and roſe again, even ſo, them alſo which ſleep in Jeſus, will God bring with him. 1 Theſſ.</hi> IV. 14. For he will <hi>appear the ſe<g ref="char:EOLhyphen"/>cond
+<pb n="36" facs="tcp:93239:22" rendition="simple:additions"/>
+time</hi> (as you have hear'd) and <hi>when Chriſt who is our life ſhall appear; then ſhall we alſo appear with him in glory. Faithful is he that called you<g ref="char:punc">▪</g> who al<g ref="char:EOLhyphen"/>ſo will do it.</hi> Therefore <hi>be faithful unto death, and he will give you a crown of life.</hi>
+               </p>
+               <p>Thus I have ſhown you, there was more to be ſeen in an empty Sepulchre; than when the Corps was in it.</p>
+               <p>For if our Lord be riſen, and be not there (a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Angel ſaid) then we ſee, he was the Son of God. We <hi>ſee him that by ſuffering death was made a little lower than the Angels, crowned with glory and honour.</hi> We ſee that God is reconciled unto Sin<g ref="char:EOLhyphen"/>ners; and that Death hath loſt its Sting. We ſee the Goſpel is the Rule, according to which we ought to order our Life. We ſee our high an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heavenly calling in Chriſt Jeſus. And <hi>Laſtly,</hi> w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſee that as glorious Things are laid up in ſtore fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe that love and obey him; ſo nothing can <hi>ſepa<g ref="char:EOLhyphen"/>rate us from the Love of God in Chriſt Jeſus ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord.</hi>
+               </p>
+               <p>And <hi>therefore, my beloved Brethren, be ye ſteadfaſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unmoveable, alway abounding in the work of the Lord for aſmuch as ye know that your labour is not in vai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the Lord, 1 Corinth.</hi> XV. 58.</p>
+               <p>
+                  <hi>Now the God of Peace that brought again from t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dead our Lord Jeſus, that great Sheperd of the Sheep through the Blood of the everlaſting Covenant,</hi>
+               </p>
+               <p>
+                  <hi>Make you perfect in every good work to do his wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> working in you that which is well pleaſing in his ſigh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> through Jeſus Chriſt; to whom be glory for ever a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ever Amen.</hi> XIII. <hi>Hebr.</hi> 20, 21.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
